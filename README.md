@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kuraryu405
--👀私は興味があります...python,html
--🌱私は現在学んでいます
-- 💞️ I’m looking to collaborate on ...
--📫私につくする方法..Twitterの@ kuraryu405のDMまで
+うおおおおおおおおおおおお！
+長野県に住む学生です！！！！
+適当に生きてます！
 
 <!---
 kuraryu405/kuraryu405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

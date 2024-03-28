@@ -5,7 +5,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&amp;display=swap" rel="stylesheet">
 
 <div class="grid-container mx-auto mt-5">
- <img src="https://marunuki.tools-base.biz/img/%E7%94%BB%E5%83%8F_2024-02-12_200154557_0212080150.png" class="grid-item profile-image">
+
     <div class="grid-item about-title">
      <h1>About</h1>
     </div>

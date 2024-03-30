@@ -2,10 +2,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&amp;display=swap" rel="stylesheet">
+<link href="https://twitter.com/kuraryukun_dayo/photo" rel="stylesheet">
 
 <div class="grid-container mx-auto mt-5">
-
+ <img src="https://pbs.twimg.com/profile_images/1770572731727433728/if6RlLTC_200x200.jpg" class="grid-item profile-image">
     <div class="grid-item about-title">
      <h1>About</h1>
     </div>

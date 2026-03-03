@@ -2,7 +2,7 @@
 
 🎓 INIAD 9th | Tokyo  
 💻 Interested in full-stack web development  
-🌱 Currently learning **React / NestJS / TypeScript / Prisma**  
+🌱 Currently learning **React / NestJS / TypeScript / TypeORM / Prisma / Taillwindcss(DaisyUI)**  
 🎯 Goal: Build a web app this summer
 
 ---

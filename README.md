@@ -24,21 +24,14 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuraryu405&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuraryu405&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 🎵 Interests
 
-- 🎸 Music (bands & indie)
+- 🎸 Music (wind orchestra & indie)
 - 🏋️ Gym & weight training
-- 🎮 Nintendo Switch
-- 🚇 Public transit & maps
+- 💻 gadgets
+- 📷 camera
 
 ---
 

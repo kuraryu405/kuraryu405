@@ -28,8 +28,7 @@
 
 ![](https://github-readme-stats-phi-seven-oa35688lpa.vercel.app/api?username=kuraryu405&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f59e0b)
 
-![](https://nirzak-streak-stats.vercel.app/?user=kuraryu405&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuraryu405&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kuraryu405&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)

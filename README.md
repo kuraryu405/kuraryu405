@@ -37,7 +37,6 @@
 ## 🎵 Interests
 
 - 🎸 Music (wind orchestra & indie)
-- 🏋️ Gym & weight training
 - 💻 gadgets
 - 📷 camera
 

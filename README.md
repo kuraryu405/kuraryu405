@@ -1,20 +1,21 @@
 # Hi, I'm Taiyo 👋
 
 Computer Science student at **INIAD (Toyo University)** in Tokyo.  
-I enjoy building web applications with **TypeScript**, with a focus on frontend and full-stack development.
+I enjoy building web applications with **TypeScript**, focusing on frontend and full-stack development.
 
 - 🎓 INIAD 9th
 - 💻 Building web apps with React / Next.js / NestJS
-- 🧑‍💻 Practical web development experience through internships
-- 🌱 Interested in frontend architecture, backend development, and developer experience
+- 🧑‍💻 Software engineering experience through internships and personal projects
+- 🌱 Interested in software architecture, AI-powered applications, and developer experience
 
 ## Experience
 
 ### teamLab Inc. — Summer Internship, 2026
-Participated in a summer internship at **teamLab Inc.** in July–August 2026.
+Participated in a two-week software engineering internship at **teamLab Inc.** in July–August 2026.
 
-### Long-term Web Development Internship
-Working on web application development using technologies including **TypeScript, React, NestJS, PostgreSQL, and Docker**.
+### Software Engineering Internships
+Experience developing web applications across the frontend and backend using **TypeScript, React, NestJS, PostgreSQL, and Docker**.  
+Currently gaining experience contributing to an established software codebase.
 
 ## Tech Stack
 
@@ -31,6 +32,7 @@ Working on web application development using technologies including **TypeScript
 ### Also Used
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -41,11 +43,18 @@ Working on web application development using technologies including **TypeScript
 
 ## Projects
 
-### [Happa](https://github.com/kuraryu405/Happa)
-An anonymous Q&A web application built primarily with TypeScript.
+### [Prizgram](https://github.com/kuraryu405/Prizgram)
+An AI-powered career agent that helps students explore opportunities, evaluate job matches, and manage applications.  
+**First Place — University Hackathon (2026)**
 
-### [Portfolio](https://github.com/kuraryu405/tsutsumi-portfolio-v2)
-A motion-driven personal portfolio.
+### [INIAD Quest](https://kuraryu.jp/iniad-quest/)
+A web-based learning platform for INIAD students, featuring practice exams, automated grading, and progress tracking.
+
+### [StayBridge Tokyo](https://github.com/kuraryu405/tokyo-opendata)
+A multilingual guidance platform using public data to help international visitors navigate unexpected situations in Tokyo.
+
+### [Happa](https://github.com/kuraryu405/Happa)
+An anonymous Q&A and real-time voting web application built with TypeScript.
 
 ## GitHub Stats
 
